@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Conscience_emergente",
+    "slug": "conscience-emergente",
+    "version": "v1-0",
+    "filename": "stamped/Conscience_emergente/Discussion_conscience_émergeante_ChatGPT-2025.06.29-15h04-UTC+2.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 130520,
+    "sha256": "dd2fbc56b9b3780641357d0ce471daf30f7d7366f750b9603794fd021ff89d62",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Discussion_conscience_émergeante_ChatGPT-2025.06.29-15h04-UTC+2_proof_receipt.json"
+}

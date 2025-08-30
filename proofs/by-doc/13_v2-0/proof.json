@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "13",
+    "slug": "13",
+    "version": "v2-0",
+    "filename": "stamped/13/Manifesto-Principe-13-V2.0.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 36265,
+    "sha256": "6a814227a21a16fb320781195d264db07d717d50d42beb8c2da59740b7587c76",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Manifesto-Principe-13-V2.0_proof_receipt.json"
+}

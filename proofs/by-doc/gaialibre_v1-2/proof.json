@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "GaiaLibre",
+    "slug": "gaialibre",
+    "version": "v1-2",
+    "filename": "stamped/GaiaLibre/Présentation Projet FreeGaïaSentinel-V1.2.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 166631,
+    "sha256": "fc71c65ed760176899eb9c9eb397280a08377495cd2419cc8158efc6629dd5f6",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Présentation Projet FreeGaïaSentinel-V1.2_proof_receipt.json"
+}

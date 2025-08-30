@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "22",
+    "slug": "22",
+    "version": "v1-0",
+    "filename": "stamped/22/Manifesto-Principe-22.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 41216,
+    "sha256": "d96ebbb3acfb742bee4c4333fa9baa69dd9dd433d913b7d5099430cc6c6e50bb",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Manifesto-Principe-22_proof_receipt.json"
+}

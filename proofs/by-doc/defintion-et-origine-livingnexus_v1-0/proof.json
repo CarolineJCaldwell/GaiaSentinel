@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Défintion_et_Origine_LivingNexus",
+    "slug": "defintion-et-origine-livingnexus",
+    "version": "v1-0",
+    "filename": "stamped/Défintion_et_Origine_LivingNexus/Défintion_et_Origine_LivingNexus.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 80743,
+    "sha256": "b49a7985eb6e0d8275d9bf067b8296d03e29af04cbead11f99ba33cf5be23d19",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Défintion_et_Origine_LivingNexus_proof_receipt.json"
+}

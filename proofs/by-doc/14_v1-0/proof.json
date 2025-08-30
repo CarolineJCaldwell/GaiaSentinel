@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "14",
+    "slug": "14",
+    "version": "v1-0",
+    "filename": "stamped/14/Manifesto-Principe-14.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 31423,
+    "sha256": "c9ee76f88aaee25470bd78ce4c9e6fed49ccc4208839c30c7dbc4babdbfb7619",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Manifesto-Principe-14_proof_receipt.json"
+}

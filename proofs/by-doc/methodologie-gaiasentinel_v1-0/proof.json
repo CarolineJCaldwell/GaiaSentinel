@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Méthodologie_GaiaSentinel",
+    "slug": "methodologie-gaiasentinel",
+    "version": "v1-0",
+    "filename": "stamped/Méthodologie_GaiaSentinel/Méthodologie_GaiaSentinel.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 65625,
+    "sha256": "848042615d02448977d48d68d2665a257d722404429b241cce370c9f4b3b2535",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Méthodologie_GaiaSentinel_proof_receipt.json"
+}

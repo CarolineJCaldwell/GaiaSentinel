@@ -1,0 +1,35 @@
+{
+  "targetHash": "b49a7985eb6e0d8275d9bf067b8296d03e29af04cbead11f99ba33cf5be23d19",
+  "merkleRoot": "6485ab73e512579414931a0e889628fa6b7ccdccaa5162c32f4f299b5cef64c7",
+  "proof": [
+    {
+      "right": "a7a2c7eb5ac42d5c2aecd94c82d5baf65f9b18056a1eb6569db0edd1afb35b1d"
+    },
+    {
+      "left": "5f14e935c1ea5743aa9f93248f0247ed54d36ac2516527bfdbc373d8b19b82f4"
+    },
+    {
+      "right": "30690eede5f3c844df47695f93e541a1c8c0b4cc22b7860cda29123441f7a0fd"
+    },
+    {
+      "right": "7ef6439aa34cf24ea36d37ce8ac3995f7fa7cbc227bc6e9150d148811c36066e"
+    },
+    {
+      "right": "5d979d772fa65a850844e5be9c5a69f574db16c83de89ca149e267c73ba65a27"
+    },
+    {
+      "left": "f9c380f4ba05f6e01c454f598c35a2a3ee44e13734ff14435fc3a6aef3173bd9"
+    },
+    {
+      "left": "d4259ead8cd4b2f7d50ccfdf538770342e11063945ee1deeea3e74e084dff5d8"
+    }
+  ],
+  "anchors": [
+    {
+      "sourceId": "beb6138c6d0cae8b9367999c9b960082cb7eaced3bd18085da449959ee7cfe78",
+      "type": "BTCOpReturn"
+    }
+  ],
+  "type": "ChainpointSHA256v2",
+  "@context": "https://w3id.org/chainpoint/v2"
+}

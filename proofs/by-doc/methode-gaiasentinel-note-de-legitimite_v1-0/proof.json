@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Méthode_GaiaSentinel-Note_de_légitimité",
+    "slug": "methode-gaiasentinel-note-de-legitimite",
+    "version": "v1-0",
+    "filename": "stamped/Méthode_GaiaSentinel-Note_de_légitimité/Méthode_GaiaSentinel-Note_de_légitimité.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 54869,
+    "sha256": "251b251ee5a94add8cf1b1d0b0b5907bf5d45eac5a4b9649d253d7f7143b6086",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Méthode_GaiaSentinel-Note_de_légitimité_proof_receipt.json"
+}

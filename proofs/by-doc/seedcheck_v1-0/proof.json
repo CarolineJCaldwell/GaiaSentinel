@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "SeedCheck",
+    "slug": "seedcheck",
+    "version": "v1-0",
+    "filename": "stamped/SeedCheck/SeedCheck-V1.0.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 144019,
+    "sha256": "c4e0f9c18abc733639a0d6a151970ce1eece41db56c141c97bc98ecba465e5f7",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = SeedCheck-V1.0_proof_receipt.json"
+}

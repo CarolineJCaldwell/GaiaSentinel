@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "12",
+    "slug": "12",
+    "version": "v1-0",
+    "filename": "stamped/12/Manifesto-Principe-12.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 41917,
+    "sha256": "8c59c826bf8d4a2a8232ce1b5b4141903d126e7ac488db3312ff2e59b62abab8",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Manifesto-Principe-12_proof_receipt.json"
+}

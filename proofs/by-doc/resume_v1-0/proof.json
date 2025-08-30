@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Résumé",
+    "slug": "resume",
+    "version": "v1-0",
+    "filename": "stamped/Résumé/Résumé_Manifeste_et_courte_analyse_V1.0.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 121033,
+    "sha256": "1b721e539e64d48e11a8f68aa7bfe4b380e621b8abafa435e402dc596c20d03a",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = Résumé_Manifeste_et_courte_analyse_V1.0_proof_receipt.json"
+}

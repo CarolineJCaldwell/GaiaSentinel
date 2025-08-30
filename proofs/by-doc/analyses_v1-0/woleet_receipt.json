@@ -1,0 +1,32 @@
+{
+  "targetHash": "440569630eb823b977aacf39dd92f4c0239ab0f580981d8edc3b8a76fa0e705f",
+  "merkleRoot": "f761ccd413da64385294db0bf24e85d905b437fac617b187109eb8938423499e",
+  "proof": [
+    {
+      "right": "c024750b7d8ff9a8aa879c3bbca3f4384e2a553cb6924a74f6ef298f84389ce5"
+    },
+    {
+      "left": "76100e9ebeaa478cf39961cf154753ee6b9443b9d189f877711e8732fc515fce"
+    },
+    {
+      "right": "701a3611e3be51244c71de48bcf331285d163bbf454496c4ae96961298006691"
+    },
+    {
+      "right": "d93f22cca70fe6123f614a230614dbfb9db06559fed5889d49a7075f557a6744"
+    },
+    {
+      "right": "9c86a4231ed977f1153f554f39b586c1b4ddab0a7d08d35d36d369795ffa72f7"
+    },
+    {
+      "left": "ccd44e4149fd141ab51a8e86b91ea03341aa9600073340592bb170239df3c5e9"
+    }
+  ],
+  "anchors": [
+    {
+      "sourceId": "bc6ac659518250783e636e655706e248c109146da43faa5302ef2bf69c9cc8d4",
+      "type": "BTCOpReturn"
+    }
+  ],
+  "type": "ChainpointSHA256v2",
+  "@context": "https://w3id.org/chainpoint/v2"
+}

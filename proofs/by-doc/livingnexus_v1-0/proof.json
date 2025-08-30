@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "LivingNexus",
+    "slug": "livingnexus",
+    "version": "v1-0",
+    "filename": "stamped/LivingNexus/LivingNexus.pdf",
+    "mimetype": "application/pdf",
+    "size_bytes": 69568,
+    "sha256": "07725232ac12e7b1d78bc1d8c2dc0f118160adaf09674f31643950ae65a65070",
+    "canonical_uri": null
+  },
+  "authorship": {
+    "author": "Caroline Caldwell – GaiaSentinel",
+    "copyright": "© 2025 Caroline Caldwell – GaiaSentinel",
+    "license": "CC BY-NC-ND 4.0 International"
+  },
+  "anchoring": {
+    "anchor_network": "bitcoin-mainnet",
+    "txid": null,
+    "block_height": null,
+    "block_time_utc": null,
+    "op_return": null
+  },
+  "woleet": {
+    "proof_id": null,
+    "link": null
+  },
+  "dates": {
+    "created_utc": null,
+    "anchored_utc": null,
+    "published_utc": null
+  },
+  "notes": "Import depuis stamped/ ; reçu = LivingNexus_proof_receipt.json"
+}

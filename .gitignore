@@ -1,0 +1,21 @@
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Archives / temporaires
+*.zip
+*.tar.gz
+*.tmp
+~$*
+
+# Build / sorties
+dist/
+build/
+out/
+
+# Obsidian (si présent)
+.obsidian/
+
